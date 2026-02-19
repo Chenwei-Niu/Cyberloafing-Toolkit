@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\ForceBindIP\ForceBindIP64.exe" 192.168.0.1 "C:\Users\yourself\Desktop\Foxes\firefox.exe"

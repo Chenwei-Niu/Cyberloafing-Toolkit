@@ -1,0 +1,3 @@
+about:config?filter=browser.launcherProcess.enabled 
+preference set to false
+

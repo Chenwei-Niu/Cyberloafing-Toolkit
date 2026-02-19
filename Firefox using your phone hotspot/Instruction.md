@@ -3,7 +3,7 @@
 This guide explains how to use a batch (`.bat`) script and **ForceBindIP** to force a specific, portable instance of Firefox to route its internet traffic through a secondary network adapter (such as a mobile hotspot tether). This ensures your browsing traffic bypasses the default system network.
 
 ⚠️ **Crucial Prerequisite:** For ForceBindIP to successfully hook into modern Firefox, you **must** disable Firefox's built-in DLL injection protection. 
-1. Open your "Mo Fish" Firefox instance.
+1. Open your Firefox instance.
 2. Navigate to `about:config` in the address bar.
 3. Search for `browser.launcherProcess.enabled` and set it to `false`. 
 *(If Firefox keeps resetting this, you will need to bind it permanently using a `user.js` file).*
